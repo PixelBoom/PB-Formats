@@ -2,7 +2,7 @@
 /*
 Plugin Name: PB Formats
 Plugin URI: https://github.com/PixelBoom/PB-Formats/
-Description: Create custom meta boxes that match the post format used in PixelBoom's WordPress themes.
+Description: Create custom meta boxes that match the post formats used in PixelBoom's WordPress themes.
 Author: PixelBoom
 Version: 1.0
 Author URI: http://www.pixelboom.net/

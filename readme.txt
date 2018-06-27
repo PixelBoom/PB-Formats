@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Create custom meta boxes that match the post format used in PixelBoom's WordPress themes.
+Create custom meta boxes that match the post formats used in PixelBoom's WordPress themes.
 
 == Installation ==
 
