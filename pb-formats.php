@@ -119,7 +119,7 @@ if( ! class_exists('PB_Formats') ) {
 		 * @since 1.0
 		 * @access public
 		 */
-		public function ajax_callback($post)
+		public function ajax_callback()
 		{
 			// Verify that the nonce is valid.
 			if( ! isset($_POST['nonce']) || ! isset( $_POST['ids']) ) {
